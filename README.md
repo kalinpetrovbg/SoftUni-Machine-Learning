@@ -1,0 +1,1 @@
+This is the place where I will upload all tasks and solutions from the AI course at SoftUni.
