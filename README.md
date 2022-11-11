@@ -1,4 +1,6 @@
-# COURSE CURRICULUM:
+## Machine Learning
+
+### COURSE CURRICULUM:
 
 1. Introduc􀀉on to Machine Learning
 2. Linear and Logis􀀉c Regression
@@ -11,4 +13,4 @@
 9. Exam Prepara􀀉on: End-to-end Project
 10. Course Summary
 
-![ML Certificate](Certificate.jpg)
+![ML Certificate](Certificate.jpeg)
